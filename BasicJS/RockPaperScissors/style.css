@@ -1,0 +1,122 @@
+body {
+  position: relative;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+#computer-choice {
+  position: absolute;
+  top: 27%;
+  left: 56%;
+}
+
+#user-choice {
+  position: absolute;
+  top: 27%;
+  left: 35%;
+}
+
+button {
+  position: absolute;
+  opacity: 0;
+}
+
+.btn1 {
+  top: 5%;
+  left: 52%;
+  transform: scale(2.5, 5);
+
+}
+
+.btn2 {
+  top: 7.5%;
+  left: 64%;
+  transform: scale(1.2, 4.5);
+}
+
+.btn3 {
+  top: 14%;
+  left: 76%;
+  transform: scale(2, 4);
+}
+
+.btn4 {
+  top: 22.5%;
+  left: 81%;
+  transform: scale(1.7, 4);
+
+}
+
+.btn5 {
+  top: 31.5%;
+  left: 81%;
+  transform: scale(1.7, 4);
+}
+
+.btn6 {
+  top: 40%;
+  left: 76%;
+  transform: scale(2.5, 4);
+
+}
+
+.btn7 {
+  top: 46.2%;
+  left: 64%;
+  transform: scale(2, 4.5);
+}
+
+.btn8 {
+  top: 49%;
+  left: 49.7%;
+  transform: scale(1.5, 4.5);
+
+}
+
+.btn9 {
+  top: 47.7%;
+  left: 37%;
+  transform: scale(2.2, 4.5);
+
+}
+
+.btn10 {
+  top: 43%;
+  left: 24%;
+  transform: scale(2, 4.3);
+
+}
+
+.btn11 {
+  top: 35%;
+  left: 15%;
+  transform: scale(1.5, 4.5);
+
+}
+
+.btn12 {
+  top: 26.2%;
+  left: 12%;
+  transform: scale(1.7, 4.3);
+}
+
+.btn13 {
+  top: 17%;
+  left: 15%;
+  transform: scale(1.2, 4);
+
+}
+
+.btn14 {
+  top: 10%;
+  left: 25%;
+  transform: scale(2, 4);
+
+}
+
+.btn15 {
+  top: 5.5%;
+  left: 37%;
+  transform: scale(2.2, 4.5);
+}

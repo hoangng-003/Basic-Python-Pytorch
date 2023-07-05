@@ -1,0 +1,12 @@
+Các bước để train 1 modal : 
+
+1. Chuẩn bị data 
+2. load dataset -> read file CSV 
+3. Phân chia dataset -> train data & test data 
+
+4. Chuẩn hóa & phân bố data 
+
+5. Giải thuật
+
+6. Đánh giá độ chính xác ( lost function )
+7. Dán nhãn 
